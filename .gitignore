@@ -1,0 +1,4 @@
+# Ignore program outputs
+*.elf
+# Ignore vim editor swap files
+*.swp
